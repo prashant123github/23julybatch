@@ -1,1 +1,12 @@
 This is demo1.txt depository
+
+Topics covered mentioned below
+variables
+methods
+constructors
+class
+objects
+static
+final
+string
+Thread class
